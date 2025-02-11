@@ -79,6 +79,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 ### 📩 Connect with Me
 For queries, collaborations, or discussions, feel free to reach out!
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **LinkedIn**: https://www.linkedin.com/in/lakshmi-bharathi-ilangovan-a8973121a/
+- **Email**: lakshmibharathi.ik@gmail.com
 
