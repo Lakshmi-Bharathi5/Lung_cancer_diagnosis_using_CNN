@@ -14,7 +14,7 @@ This project leverages **Convolutional Neural Networks (CNNs)** to detect and di
 
 ## Skills & Technologies Used
 - **Deep Learning** (CNNs, Transfer Learning)
-- **Python** (TensorFlow, Keras, PyTorch)
+- **Python** 
 - **Medical Imaging Analysis** (X-rays, CT scans)
 - **Data Processing & Augmentation**
 - **Model Training & Evaluation**
