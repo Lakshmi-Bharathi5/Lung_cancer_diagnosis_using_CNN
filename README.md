@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ### Train the Model
 ```bash
-python src/train.py --epochs 50 --batch_size 32 --dataset_path data/
+python src/train.py --epochs 100 --batch_size 32 --dataset_path data/
 ```
 
 ### Evaluate the Model
